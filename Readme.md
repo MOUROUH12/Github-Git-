@@ -15,3 +15,6 @@ bt when u will do git opeartion on the respo u will use the private key for veri
 
 craete a file : touch filename or > filename 
 read file : cat filename 
+
+# instructions 
+ - open index.html in your browser
